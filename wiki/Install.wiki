@@ -1,0 +1,23 @@
+How to install "Rebtel Client"?
+
+The application should be available soon on the android market. But in the meantime, follow these steps:
+
+First of all, download the last version of Rebtel Client from [http://code.google.com/p/rebtelt-client/ Home page]
+
+Installation steps:
+
+=Method 1=
+
+(If you have the SDK and drivers installed)
+
+*
+ # Plug your android device on the USB
+ # Type the following command in shell: "adb install RebtelClient.apk"
+
+=Method 2=
+If you don't have The SDK and drivers installed.
+
+*
+ # Download "Apps Installer"
+ # Put the .apk on your SDcard
+ # Run "Apps Installer" and look for "RebtelClient"
