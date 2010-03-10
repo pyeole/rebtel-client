@@ -18,6 +18,7 @@ Installation steps:
 If you don't have The SDK and drivers installed.
 
 *
- # Download "Apps Installer"
+ # Download "Apps Installer" from the android market
  # Put the .apk on your SDcard
  # Run "Apps Installer" and look for "RebtelClient"
+ # Install it by pressing it :-)
