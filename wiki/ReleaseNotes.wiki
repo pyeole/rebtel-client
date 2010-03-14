@@ -1,13 +1,19 @@
 #labels Featured
 *Releases
  # [ReleaseNotes#0.1_Beta 0.1 Beta]
-
-
-
+ # [ReleaseNotes#0.2 0.2]
 
 ==Releases==
 
 *
+ # 0.2
+
+2010-03-14
+
+Bug fix: special characters are now allowed. :-)
+
+
+
  # 0.1 Beta
 
 2010-03-09
