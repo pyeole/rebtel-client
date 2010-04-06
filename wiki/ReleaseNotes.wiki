@@ -3,6 +3,7 @@
  # [ReleaseNotes#0.1_Beta 0.1 Beta]
  # [ReleaseNotes#0.2 0.2]
  # [ReleaseNotes#0.3 0.3]
+ # [ReleaseNotes#0.4 0.4]
 
 ==Releases==
 
@@ -24,3 +25,13 @@ Bug fix: special characters are now allowed. :-)
 
 Bug fixed: Rebtel changed it's platform, Sms could not be sent anymore.
 New feature: Wiew balance and rebtel Buddies.
+
+
+ ==3. 0.3==
+
+2010-04-06
+
+Bugs fixed
+A few eancements
+Include bug report
+Translation to Spanish and catalan
