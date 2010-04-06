@@ -27,7 +27,7 @@ Bug fixed: Rebtel changed it's platform, Sms could not be sent anymore.
 New feature: Wiew balance and rebtel Buddies.
 
 
- ==3. 0.3==
+ ==3. 0.4==
 
 2010-04-06
 
