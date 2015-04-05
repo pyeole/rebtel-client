@@ -1,0 +1,36 @@
+**Releases
+  1. [0.1 Beta](ReleaseNotes#0.1_Beta.md)
+  1. [0.2](ReleaseNotes#0.2.md)
+  1. [0.3](ReleaseNotes#0.3.md)
+  1. [0.4](ReleaseNotes#0.4.md)**
+
+## Releases ##
+
+> ## 1. 0.1 Beta ##
+
+2010-03-09
+
+First release. ;-)
+
+> ## 2. 0.2 ##
+
+2010-03-14
+
+Bug fix: special characters are now allowed. :-)
+
+> ## 3. 0.3 ##
+
+2010-03-26
+
+Bug fixed: Rebtel changed it's platform, Sms could not be sent anymore.
+New feature: Wiew balance and rebtel Buddies.
+
+
+> ## 3. 0.4 ##
+
+2010-04-06
+
+Bugs fixed
+A few eancements
+Include bug report
+Translation to Spanish and catalan
